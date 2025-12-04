@@ -1,0 +1,250 @@
+job_title,company,location,job_type,category,salary_min,salary_max,experience_required,publication_date,skills,salary_range,salary_avg,experience_level,num_skills
+engineering manager,DataInc,"San Francisco, CA",remote,Technology,151082,291345,4.0,2025-11-27,"AWS, Agile, Machine Learning, Kubernetes, MongoDB, Ruby",140263,221213.5,Mid-level,6
+engineering manager,EnterpriseHub,"New York, NY",remote,Technology,156891,280075,3.0,2025-11-27,"Java, Agile, Git, SQL, Ruby, Go",123184,218483.0,Junior,6
+engineering manager,StartupXYZ,"Seattle, WA",part-time,Technology,152134,280310,4.0,2025-11-27,"AWS, Python, Kubernetes, Git",128176,216222.0,Mid-level,4
+lead engineer,WebDynamics,"Seattle, WA",full-time,Technology,151918,253988,7.0,2025-11-27,"Agile, Git, Docker, REST APIs, TypeScript",102070,202953.0,Senior,5
+senior software engineer,DigitalWorks,"San Francisco, CA",full-time,Technology,148141,252584,9.0,2025-11-27,"Agile, Ruby, Docker, Git, JavaScript",104443,200362.5,Senior,5
+senior software engineer,WebDynamics,"Seattle, WA",part-time,Technology,147870,248059,8.0,2025-11-27,"CI/CD, Python, Kubernetes, JavaScript, SQL, Docker, Machine Learning",100189,197964.5,Senior,7
+senior data scientist,WebDynamics,"Seattle, WA",part-time,Technology,149467,244158,11.0,2025-11-27,"Machine Learning, TypeScript, Node.js, Docker, Python, REST APIs, CI/CD",94691,196812.5,Expert,7
+lead engineer,AI Solutions,"San Francisco, CA",contract,Technology,133652,258933,11.0,2025-11-27,"Java, Python, Machine Learning",125281,196292.5,Expert,3
+lead engineer,AI Solutions,"New York, NY",full-time,Technology,138787,242901,5.0,2025-11-27,"TypeScript, Kubernetes, AWS, JavaScript, Go",104114,190844.0,Mid-level,5
+project manager,DataInc,"New York, NY",full-time,Technology,133004,237154,2.0,2025-11-27,"TypeScript, Java, JavaScript, Kubernetes, Go",104150,185079.0,Junior,5
+product manager,EnterpriseHub,"San Francisco, CA",contract,Technology,134354,233476,4.0,2025-11-27,"Machine Learning, MongoDB, Python, REST APIs, AWS, React, Node.js",99122,183915.0,Mid-level,7
+product manager,EnterpriseHub,"London, UK",part-time,Technology,133776,232759,5.0,2025-11-27,"JavaScript, Machine Learning, Kubernetes, TensorFlow",98983,183267.5,Mid-level,4
+project manager,TechCorp,"New York, NY",remote,Technology,124814,235012,4.0,2025-11-27,"Java, CI/CD, TypeScript",110198,179913.0,Mid-level,3
+product manager,EnterpriseHub,"Seattle, WA",part-time,Technology,130136,228915,4.0,2025-11-27,"AWS, React, Docker, Java, Kubernetes",98779,179525.5,Mid-level,5
+engineering manager,DigitalWorks,"Denver, CO",part-time,Technology,124285,232235,3.0,2025-11-27,"AWS, Machine Learning, SQL, Go, TypeScript",107950,178260.0,Junior,5
+engineering manager,AI Solutions,"Boston, MA",part-time,Technology,112849,233748,2.0,2025-11-27,"AWS, Go, Machine Learning, Git, Ruby",120899,173298.5,Junior,5
+engineering manager,DataInc,"Chicago, IL",remote,Technology,112205,224750,3.0,2025-11-27,"Go, SQL, AWS, Java, React",112545,168477.5,Junior,5
+engineering manager,CloudSystems,"Atlanta, GA",contract,Technology,125001,210672,3.0,2025-11-27,"Docker, Agile, TensorFlow, AWS, Python, CI/CD",85671,167836.5,Junior,6
+technical lead,WebDynamics,"San Francisco, CA",contract,Technology,125359,209806,11.0,2025-11-27,"Node.js, Agile, Java",84447,167582.5,Expert,3
+engineering manager,EnterpriseHub,"Denver, CO",remote,Technology,116663,216465,2.0,2025-11-27,"React, REST APIs, Java, Docker, TypeScript, Machine Learning",99802,166564.0,Junior,6
+engineering manager,DataInc,"Austin, TX",remote,Technology,111856,214647,3.0,2025-11-27,"TensorFlow, CI/CD, Python, TypeScript, Java, Go, SQL",102791,163251.5,Junior,7
+senior software engineer,DigitalWorks,"Denver, CO",full-time,Technology,115867,203905,9.0,2025-11-27,"Docker, MongoDB, REST APIs, Go, Python, Git",88038,159886.0,Senior,6
+senior software engineer,EnterpriseHub,"Boston, MA",contract,Technology,119378,199930,9.0,2025-11-27,"Python, TypeScript, Node.js, TensorFlow",80552,159654.0,Senior,4
+senior data scientist,CloudSystems,"Denver, CO",full-time,Technology,119028,200044,6.0,2025-11-27,"Ruby, React, Node.js",81016,159536.0,Senior,3
+lead engineer,TechCorp,"Berlin, Germany",part-time,Technology,114184,204087,9.0,2025-11-27,"JavaScript, Java, MongoDB",89903,159135.5,Senior,3
+senior data scientist,CloudSystems,"Chicago, IL",contract,Technology,118237,197803,5.0,2025-11-27,"SQL, Kubernetes, React, Machine Learning, Python, Agile, Java",79566,158020.0,Mid-level,7
+lead engineer,DigitalWorks,"Boston, MA",contract,Technology,115759,199751,12.0,2025-11-27,"Git, AWS, JavaScript, Machine Learning, Python, CI/CD",83992,157755.0,Expert,6
+technical lead,DigitalWorks,"New York, NY",part-time,Technology,108456,206849,11.0,2025-11-27,"TypeScript, Python, Machine Learning, JavaScript, React",98393,157652.5,Expert,5
+senior data scientist,EnterpriseHub,Remote,contract,Technology,115733,197147,11.0,2025-11-27,"Git, Java, CI/CD, REST APIs, Python, Kubernetes, Go",81414,156440.0,Expert,7
+lead engineer,WebDynamics,"Atlanta, GA",part-time,Technology,114256,197781,6.0,2025-11-27,"JavaScript, CI/CD, Java, REST APIs, Docker",83525,156018.5,Senior,5
+lead engineer,DataInc,"Denver, CO",remote,Technology,118910,191852,9.0,2025-11-27,"Machine Learning, Node.js, CI/CD",72942,155381.0,Senior,3
+data scientist,CodeFactory,"New York, NY",full-time,Technology,113649,196060,2.0,2025-11-27,"REST APIs, CI/CD, Python",82411,154854.5,Junior,3
+senior software engineer,EnterpriseHub,"Toronto, Canada",contract,Technology,111951,197281,5.0,2025-11-27,"AWS, CI/CD, REST APIs, Machine Learning, MongoDB, Agile, React",85330,154616.0,Mid-level,7
+senior data scientist,InnovateLab,"Toronto, Canada",remote,Technology,118274,189378,8.0,2025-11-27,"Machine Learning, Node.js, Go, React, Git, REST APIs, CI/CD",71104,153826.0,Senior,7
+senior software engineer,CodeFactory,"Atlanta, GA",full-time,Technology,116897,190586,9.0,2025-11-27,"Kubernetes, Go, JavaScript, MongoDB, Node.js, Machine Learning",73689,153741.5,Senior,6
+senior software engineer,CodeFactory,"Boston, MA",full-time,Technology,106078,200220,12.0,2025-11-27,"MongoDB, TypeScript, Java",94142,153149.0,Expert,3
+senior software engineer,TechCorp,"Atlanta, GA",full-time,Technology,106043,199399,9.0,2025-11-27,"Java, Agile, CI/CD, JavaScript, AWS",93356,152721.0,Senior,5
+senior software engineer,CloudSystems,"Austin, TX",remote,Technology,105471,199090,6.0,2025-11-27,"TypeScript, Node.js, TensorFlow, Go, REST APIs, React, Python",93619,152280.5,Senior,7
+senior software engineer,InnovateLab,"Austin, TX",contract,Technology,107776,195509,5.0,2025-11-27,"CI/CD, Git, JavaScript",87733,151642.5,Mid-level,3
+technical lead,CloudSystems,"Seattle, WA",part-time,Technology,107434,194992,12.0,2025-11-27,"Kubernetes, SQL, REST APIs, TensorFlow, MongoDB",87558,151213.0,Expert,5
+lead engineer,DataInc,"Atlanta, GA",contract,Technology,103724,197589,7.0,2025-11-27,"MongoDB, AWS, Python, Machine Learning, Kubernetes, JavaScript",93865,150656.5,Senior,6
+product manager,WebDynamics,"Denver, CO",remote,Technology,107618,193038,5.0,2025-11-27,"SQL, TensorFlow, MongoDB, REST APIs, Docker, Node.js",85420,150328.0,Mid-level,6
+technical lead,DigitalWorks,"Seattle, WA",part-time,Technology,109758,190478,7.0,2025-11-27,"SQL, TensorFlow, Node.js, Git, AWS",80720,150118.0,Senior,5
+frontend developer,DataInc,"New York, NY",part-time,Technology,107507,192555,2.0,2025-11-27,"TypeScript, JavaScript, SQL, Machine Learning, Docker",85048,150031.0,Junior,5
+senior android engineer,Bolt Technology,"Berlin, Berlin, Germany",Unknown,Technology,110000,190000,4.0,2025-11-26,None,80000,150000.0,Mid-level,1
+staff data platform engineer (f/m/d),Apaleo,"Munich, Bavaria, Germany",Unknown,Technology,110000,190000,4.0,2025-11-27,None,80000,150000.0,Mid-level,1
+senior solutions architect,Automat-it,Berlin,full-time,Technology,110000,190000,2.0,2025-11-27,None,80000,150000.0,Junior,1
+product manager,DataInc,"Chicago, IL",contract,Technology,105801,193211,3.0,2025-11-27,"Java, Ruby, Agile, AWS",87410,149506.0,Junior,4
+solutions architect,EnterpriseHub,"London, UK",remote,Technology,109002,189999,4.0,2025-11-27,"AWS, Go, JavaScript, Docker, Machine Learning",80997,149500.5,Mid-level,5
+software engineer,DataInc,"San Francisco, CA",part-time,Technology,104788,193973,5.0,2025-11-27,"AWS, TypeScript, MongoDB, React, Ruby, SQL, CI/CD",89185,149380.5,Mid-level,7
+backend developer,InnovateLab,"San Francisco, CA",contract,Technology,103684,194848,2.0,2025-11-27,"Kubernetes, Docker, Java, TensorFlow, Python, SQL, Git",91164,149266.0,Junior,7
+senior software engineer,CodeFactory,"Boston, MA",full-time,Technology,102659,195385,5.0,2025-11-27,"React, REST APIs, CI/CD, Java, SQL, AWS",92726,149022.0,Mid-level,6
+qa engineer,DataInc,"New York, NY",remote,Technology,111455,186282,4.0,2025-11-27,"JavaScript, React, Git, Docker, AWS, Ruby, TypeScript",74827,148868.5,Mid-level,7
+project manager,CodeFactory,"Austin, TX",full-time,Technology,103468,194130,2.0,2025-11-27,"TypeScript, Git, JavaScript, React, Kubernetes, AWS, Node.js",90662,148799.0,Junior,7
+product manager,InnovateLab,"Chicago, IL",remote,Technology,106148,190939,4.0,2025-11-27,"JavaScript, Go, CI/CD, Machine Learning",84791,148543.5,Mid-level,4
+backend developer,CodeFactory,"London, UK",remote,Technology,111149,185900,4.0,2025-11-27,"Java, Docker, AWS, Go, Git, TypeScript, Node.js",74751,148524.5,Mid-level,7
+senior software engineer,TechCorp,"Denver, CO",part-time,Technology,104733,192020,8.0,2025-11-27,"Machine Learning, Docker, Java, Agile, React, SQL",87287,148376.5,Senior,6
+project manager,DigitalWorks,"Denver, CO",full-time,Technology,109605,185719,2.0,2025-11-27,"JavaScript, Go, Ruby, Git, TensorFlow, REST APIs",76114,147662.0,Junior,6
+project manager,CodeFactory,Remote,part-time,Technology,106406,188827,4.0,2025-11-27,"Agile, SQL, TensorFlow, Machine Learning",82421,147616.5,Mid-level,4
+software engineer,EnterpriseHub,"San Francisco, CA",remote,Technology,113693,181173,2.0,2025-11-27,"Node.js, TensorFlow, CI/CD, REST APIs",67480,147433.0,Junior,4
+machine learning engineer,WebDynamics,"New York, NY",contract,Technology,103982,190665,5.0,2025-11-27,"CI/CD, Go, REST APIs, TypeScript, Node.js",86683,147323.5,Mid-level,5
+project manager,CloudSystems,Remote,full-time,Technology,99351,194988,2.0,2025-11-27,"Machine Learning, AWS, Kubernetes, Docker, SQL, Ruby",95637,147169.5,Junior,6
+senior data scientist,DataInc,"Atlanta, GA",full-time,Technology,110033,184236,9.0,2025-11-27,"JavaScript, Git, SQL, Kubernetes",74203,147134.5,Senior,4
+devops engineer,DigitalWorks,"San Francisco, CA",remote,Technology,112214,181264,3.0,2025-11-27,"Python, REST APIs, Go, Java",69050,146739.0,Junior,4
+frontend developer,TechCorp,"New York, NY",remote,Technology,97145,196212,3.0,2025-11-27,"Java, Ruby, Node.js",99067,146678.5,Junior,3
+machine learning engineer,DataInc,"New York, NY",remote,Technology,106755,186095,2.0,2025-11-27,"Agile, REST APIs, AWS, Git, Machine Learning, CI/CD",79340,146425.0,Junior,6
+backend developer,StartupXYZ,"London, UK",remote,Technology,103022,188756,4.0,2025-11-27,"Java, REST APIs, Python, JavaScript",85734,145889.0,Mid-level,4
+data scientist,DataInc,"Seattle, WA",full-time,Technology,104474,187248,3.0,2025-11-27,"AWS, SQL, Agile, Ruby, Git, JavaScript",82774,145861.0,Junior,6
+devops engineer,DigitalWorks,"San Francisco, CA",part-time,Technology,103733,186360,3.0,2025-11-27,"Ruby, MongoDB, JavaScript, CI/CD, Machine Learning, REST APIs, Git",82627,145046.5,Junior,7
+product manager,InnovateLab,"Atlanta, GA",remote,Technology,108664,181419,5.0,2025-11-27,"Python, AWS, Java, Machine Learning, Go, Docker",72755,145041.5,Mid-level,6
+project manager,CloudSystems,Remote,contract,Technology,109337,180013,4.0,2025-11-27,"Machine Learning, JavaScript, Kubernetes",70676,144675.0,Mid-level,3
+machine learning engineer,TechCorp,"New York, NY",full-time,Technology,107485,181694,4.0,2025-11-27,"Ruby, AWS, SQL, TensorFlow",74209,144589.5,Mid-level,4
+solutions architect,InnovateLab,"New York, NY",remote,Technology,106239,182583,5.0,2025-11-27,"JavaScript, Agile, Kubernetes, React",76344,144411.0,Mid-level,4
+machine learning engineer,TechCorp,"San Francisco, CA",full-time,Technology,112535,176131,2.0,2025-11-27,"TypeScript, Kubernetes, Go, Git, SQL, Node.js, TensorFlow",63596,144333.0,Junior,7
+software engineer,DataInc,"San Francisco, CA",contract,Technology,105618,182763,2.0,2025-11-27,"Ruby, REST APIs, AWS, CI/CD, TypeScript, Agile, JavaScript",77145,144190.5,Junior,7
+frontend developer,WebDynamics,"New York, NY",remote,Technology,109745,178290,4.0,2025-11-27,"Go, MongoDB, CI/CD, Machine Learning, Agile, Java",68545,144017.5,Mid-level,6
+security engineer,EnterpriseHub,"London, UK",contract,Technology,100122,187098,5.0,2025-11-27,"Node.js, TensorFlow, TypeScript, SQL",86976,143610.0,Mid-level,4
+lead engineer,EnterpriseHub,"Austin, TX",contract,Technology,102627,184145,10.0,2025-11-27,"Agile, Machine Learning, Python, React",81518,143386.0,Senior,4
+product manager,StartupXYZ,"Austin, TX",part-time,Technology,102940,181529,4.0,2025-11-27,"AWS, MongoDB, TypeScript",78589,142234.5,Mid-level,3
+project manager,InnovateLab,"Toronto, Canada",remote,Technology,100562,183103,5.0,2025-11-27,"JavaScript, REST APIs, Machine Learning, React",82541,141832.5,Mid-level,4
+software engineer,DigitalWorks,"London, UK",full-time,Technology,96309,187356,3.0,2025-11-27,"Node.js, Machine Learning, SQL, Docker, Go",91047,141832.5,Junior,5
+solutions architect,DataInc,"Seattle, WA",remote,Technology,110280,173023,4.0,2025-11-27,"MongoDB, React, TensorFlow",62743,141651.5,Mid-level,3
+frontend developer,InnovateLab,"Seattle, WA",remote,Technology,95592,185558,2.0,2025-11-27,"Git, MongoDB, Go, Agile, React, Ruby, Machine Learning",89966,140575.0,Junior,7
+project manager,AI Solutions,"Toronto, Canada",contract,Technology,98217,182780,3.0,2025-11-27,"TensorFlow, Git, Machine Learning, Python",84563,140498.5,Junior,4
+machine learning engineer,AI Solutions,"New York, NY",remote,Technology,98780,181433,2.0,2025-11-27,"SQL, AWS, REST APIs, Kubernetes, Machine Learning",82653,140106.5,Junior,5
+marketing/sales manager (m/w/d),HHL Leipzig Graduate School of Management,Leipzig,Unknown,Marketing and Communication,100000,180000,4.0,2025-11-26,None,80000,140000.0,Mid-level,1
+seo account manager:in (m/w/d),Corominas Consulting GmbH,Fürth,experienced,Marketing and Communication,100000,180000,4.0,2025-11-26,None,80000,140000.0,Mid-level,1
+talent acquisition manager:in,Skalar,Munich,manager,Recruitment and Selection,100000,180000,2.0,2025-11-26,None,80000,140000.0,Junior,1
+account manager,Paymentology,Berlin,full-time,Marketing and Communication,100000,180000,7.0,2025-11-26,None,80000,140000.0,Senior,1
+technical account manager - dach,SolarEdge,Munich,full-time,Technology,100000,180000,5.0,2025-11-26,None,80000,140000.0,Mid-level,1
+technical account manager - dach,SolarEdge,Munich,full-time,Technology,100000,180000,5.0,2025-11-27,None,80000,140000.0,Mid-level,1
+strategic procurement manager (m/w/d),1KOMMA5˚,Hamburg,experienced,Software Development,100000,180000,4.0,2025-11-26,None,80000,140000.0,Mid-level,1
+marketplace & e-commerce manager (m/w/d),fleeky GmbH,Hamburg,experienced,Marketing and Communication,100000,180000,4.0,2025-11-26,None,80000,140000.0,Mid-level,1
+account manager,Paymentology,Berlin,full-time,Marketing and Communication,100000,180000,7.0,2025-11-27,None,80000,140000.0,Senior,1
+social media & community manager:in (m/w/d),Bearpaw GmbH,Bamberg,experienced,Social Media Manager,100000,180000,4.0,2025-11-27,None,80000,140000.0,Mid-level,1
+regional restaurant marketing manager (north and east),Wolt - English,"Hamburg, Hamburg, Germany",Unknown,Marketing and Communication,100000,180000,4.0,2025-11-27,None,80000,140000.0,Mid-level,1
+project manager,WebDynamics,Remote,full-time,Technology,95141,182407,4.0,2025-11-27,"Python, Java, TensorFlow, Git, Go, CI/CD, JavaScript",87266,138774.0,Mid-level,7
+qa engineer,CodeFactory,"New York, NY",full-time,Technology,100203,174792,3.0,2025-11-27,"Python, MongoDB, Machine Learning, Node.js, JavaScript, Ruby",74589,137497.5,Junior,6
+qa engineer,InnovateLab,"Seattle, WA",full-time,Technology,94838,179568,5.0,2025-11-27,"Git, TypeScript, Go",84730,137203.0,Mid-level,3
+security engineer,StartupXYZ,"New York, NY",contract,Technology,98214,176117,2.0,2025-11-27,"Git, Ruby, Machine Learning, Kubernetes, Agile, SQL",77903,137165.5,Junior,6
+product manager,CodeFactory,"Denver, CO",contract,Technology,97454,171881,4.0,2025-11-27,"Machine Learning, Git, REST APIs, Node.js",74427,134667.5,Mid-level,4
+technical lead,DigitalWorks,"Boston, MA",contract,Technology,98508,156486,8.0,2025-11-27,"Agile, Go, Node.js",57978,127497.0,Senior,3
+technical lead,DataInc,"Denver, CO",part-time,Technology,87016,161933,8.0,2025-11-27,"Java, Go, JavaScript, Python, Agile",74917,124474.5,Senior,5
+technical lead,StartupXYZ,"Chicago, IL",remote,Technology,95342,151737,7.0,2025-11-27,"TensorFlow, Agile, JavaScript, Ruby, Docker, Node.js, Git",56395,123539.5,Senior,7
+technical lead,CodeFactory,"Toronto, Canada",contract,Technology,94578,151875,9.0,2025-11-27,"Ruby, JavaScript, TensorFlow, Docker, TypeScript, React, CI/CD",57297,123226.5,Senior,7
+software engineer,DataInc,"Chicago, IL",remote,Technology,88855,154571,5.0,2025-11-27,"Ruby, SQL, MongoDB",65716,121713.0,Mid-level,3
+technical lead,CodeFactory,"Austin, TX",full-time,Technology,90287,150531,8.0,2025-11-27,"SQL, CI/CD, Go, Java",60244,120409.0,Senior,4
+technical lead,TechCorp,"Toronto, Canada",remote,Technology,98084,141986,7.0,2025-11-27,"Python, JavaScript, Git, Docker, Java, Node.js, Ruby",43902,120035.0,Senior,7
+senior financial accountant:in (m/w/d),advacc  advanced accounting GmbH,Berlin,remote,Finance,90000,150000,4.0,2025-11-26,None,60000,120000.0,Mid-level,1
+"analytics lead, operations",SumUp,"Berlin, Berlin, Germany",Unknown,Technology,90000,150000,4.0,2025-11-26,None,60000,120000.0,Mid-level,1
+devops engineer,AI Solutions,Remote,part-time,Technology,85048,154593,3.0,2025-11-27,"TypeScript, CI/CD, Git",69545,119820.5,Junior,3
+qa engineer,WebDynamics,"Chicago, IL",contract,Technology,84367,154954,2.0,2025-11-27,"JavaScript, Python, Docker, REST APIs",70587,119660.5,Junior,4
+data scientist,StartupXYZ,"Austin, TX",part-time,Technology,85820,152915,2.0,2025-11-27,"Java, REST APIs, Git, AWS, Node.js, Machine Learning",67095,119367.5,Junior,6
+full stack developer,EnterpriseHub,"Atlanta, GA",remote,Technology,89996,148405,4.0,2025-11-27,"Kubernetes, REST APIs, Git, Java, MongoDB, CI/CD",58409,119200.5,Mid-level,6
+machine learning engineer,AI Solutions,"Austin, TX",remote,Technology,88628,149577,4.0,2025-11-27,"Ruby, Docker, Agile, Python, TensorFlow",60949,119102.5,Mid-level,5
+full stack developer,TechCorp,"Toronto, Canada",remote,Technology,83894,154229,2.0,2025-11-27,"AWS, Node.js, TensorFlow, Ruby",70335,119061.5,Junior,4
+solutions architect,WebDynamics,"Chicago, IL",part-time,Technology,86172,151938,3.0,2025-11-27,"Python, Node.js, MongoDB, SQL, REST APIs",65766,119055.0,Junior,5
+data scientist,DataInc,Remote,full-time,Technology,89618,148172,2.0,2025-11-27,"Docker, Python, REST APIs, Node.js, Java",58554,118895.0,Junior,5
+technical lead,WebDynamics,"Austin, TX",remote,Technology,94029,143622,6.0,2025-11-27,"Python, JavaScript, Git, Machine Learning, Go, Node.js, CI/CD",49593,118825.5,Senior,7
+solutions architect,CodeFactory,"Denver, CO",part-time,Technology,87970,149586,4.0,2025-11-27,"Agile, TypeScript, Docker, Git, Java",61616,118778.0,Mid-level,5
+qa engineer,WebDynamics,"Boston, MA",part-time,Technology,88400,149067,4.0,2025-11-27,"Machine Learning, AWS, Docker, Ruby, Kubernetes",60667,118733.5,Mid-level,5
+frontend developer,DataInc,"Atlanta, GA",part-time,Technology,86006,151265,2.0,2025-11-27,"Git, TypeScript, Docker, Go",65259,118635.5,Junior,4
+technical lead,TechCorp,"Atlanta, GA",contract,Technology,81347,154512,6.0,2025-11-27,"React, Kubernetes, Docker",73165,117929.5,Senior,3
+full stack developer,CloudSystems,"Austin, TX",contract,Technology,89373,144216,3.0,2025-11-27,"TypeScript, SQL, Node.js, Agile, Git, REST APIs, Machine Learning",54843,116794.5,Junior,7
+devops engineer,AI Solutions,Remote,contract,Technology,88680,144458,3.0,2025-11-27,"Ruby, Python, AWS, Node.js, SQL, Git",55778,116569.0,Junior,6
+solutions architect,WebDynamics,"Austin, TX",full-time,Technology,83262,148613,3.0,2025-11-27,"Go, React, TensorFlow, Ruby, Java, Agile, TypeScript",65351,115937.5,Junior,7
+software engineer,StartupXYZ,"Toronto, Canada",remote,Technology,89594,142259,3.0,2025-11-27,"Agile, Java, Git, Docker",52665,115926.5,Junior,4
+security engineer,InnovateLab,"Berlin, Germany",remote,Technology,88820,142920,2.0,2025-11-27,"Agile, Go, Docker, CI/CD",54100,115870.0,Junior,4
+qa engineer,DigitalWorks,"Boston, MA",contract,Technology,79139,151839,5.0,2025-11-27,"TypeScript, React, REST APIs",72700,115489.0,Mid-level,3
+machine learning engineer,WebDynamics,"Berlin, Germany",remote,Technology,88302,142198,5.0,2025-11-27,"Java, Kubernetes, TypeScript, Ruby",53896,115250.0,Mid-level,4
+qa engineer,CloudSystems,"Toronto, Canada",remote,Technology,89744,140745,2.0,2025-11-27,"TensorFlow, Python, REST APIs",51001,115244.5,Junior,3
+ux designer,DataInc,"New York, NY",part-time,Technology,84041,144503,2.0,2025-11-27,"Kubernetes, AWS, Agile, Python",60462,114272.0,Junior,4
+technical lead,AI Solutions,"Boston, MA",full-time,Technology,86121,141827,10.0,2025-11-27,"React, Machine Learning, Go, SQL",55706,113974.0,Senior,4
+data scientist,TechCorp,"Denver, CO",full-time,Technology,88708,139205,4.0,2025-11-27,"Python, Git, Agile, REST APIs, React, SQL, MongoDB",50497,113956.5,Mid-level,7
+security engineer,EnterpriseHub,"Chicago, IL",remote,Technology,78178,148687,4.0,2025-11-27,"TypeScript, CI/CD, Python, Docker, Go, Ruby, React",70509,113432.5,Mid-level,7
+junior developer,DigitalWorks,"London, UK",part-time,Technology,91423,134486,2.0,2025-11-27,"Go, Python, CI/CD",43063,112954.5,Junior,3
+backend developer,CodeFactory,"Atlanta, GA",contract,Technology,73996,150993,3.0,2025-11-27,"Docker, REST APIs, AWS, Java, Python, TypeScript",76997,112494.5,Junior,6
+full stack developer,EnterpriseHub,Remote,remote,Technology,79809,144949,4.0,2025-11-27,"Go, Docker, Machine Learning, Python, Kubernetes, React, AWS",65140,112379.0,Mid-level,7
+software engineer,StartupXYZ,"Austin, TX",full-time,Technology,86256,138322,3.0,2025-11-27,"AWS, Machine Learning, Docker, JavaScript, TypeScript, Java, Node.js",52066,112289.0,Junior,7
+machine learning engineer,AI Solutions,"Austin, TX",part-time,Technology,89865,134690,3.0,2025-11-27,"Python, TensorFlow, MongoDB, AWS, Go, JavaScript, TypeScript",44825,112277.5,Junior,7
+data scientist,CloudSystems,"Austin, TX",part-time,Technology,74350,150171,5.0,2025-11-27,"MongoDB, Node.js, REST APIs",75821,112260.5,Mid-level,3
+frontend developer,AI Solutions,"Boston, MA",contract,Technology,76754,147738,2.0,2025-11-27,"Node.js, TypeScript, Machine Learning, Python, Go, Agile, Ruby",70984,112246.0,Junior,7
+system administrator,DataInc,"London, UK",part-time,Technology,86676,137346,2.0,2025-11-27,"MongoDB, Machine Learning, SQL, Ruby, JavaScript, Go, Kubernetes",50670,112011.0,Junior,7
+backend developer,InnovateLab,"Austin, TX",remote,Technology,71897,152018,2.0,2025-11-27,"Ruby, JavaScript, Agile, SQL, CI/CD",80121,111957.5,Junior,5
+full stack developer,InnovateLab,"Boston, MA",part-time,Technology,75303,148537,4.0,2025-11-27,"Kubernetes, Docker, Node.js, Git",73234,111920.0,Mid-level,4
+junior developer,CodeFactory,"Seattle, WA",contract,Technology,88329,135378,0.0,2025-11-27,"SQL, Machine Learning, TypeScript, JavaScript, CI/CD, Docker",47049,111853.5,Beginner,6
+software engineer,DigitalWorks,Remote,part-time,Technology,72899,150681,4.0,2025-11-27,"Node.js, SQL, Docker, Kubernetes, JavaScript",77782,111790.0,Mid-level,5
+devops engineer,InnovateLab,"Atlanta, GA",contract,Technology,72611,150517,3.0,2025-11-27,"Git, Ruby, Go, Machine Learning, MongoDB",77906,111564.0,Junior,5
+full stack developer,EnterpriseHub,"Boston, MA",part-time,Technology,81791,141013,3.0,2025-11-27,"TensorFlow, REST APIs, Git, Agile",59222,111402.0,Junior,4
+software engineer,TechCorp,"Toronto, Canada",remote,Technology,73214,149493,3.0,2025-11-27,"Node.js, CI/CD, TypeScript, Kubernetes, MongoDB",76279,111353.5,Junior,5
+business analyst,CloudSystems,"San Francisco, CA",part-time,Technology,79929,141936,3.0,2025-11-27,"SQL, Docker, AWS, Kubernetes, Python",62007,110932.5,Junior,5
+system administrator,WebDynamics,"London, UK",part-time,Technology,79215,141984,2.0,2025-11-27,"Agile, Node.js, React, REST APIs",62769,110599.5,Junior,4
+machine learning engineer,AI Solutions,"Toronto, Canada",full-time,Technology,79372,141777,3.0,2025-11-27,"AWS, Go, Git, React",62405,110574.5,Junior,4
+frontend developer,InnovateLab,Remote,full-time,Technology,87625,132532,5.0,2025-11-27,"Machine Learning, Python, Docker, Git, Node.js",44907,110078.5,Mid-level,5
+ux designer,TechCorp,"London, UK",full-time,Technology,80235,139878,5.0,2025-11-27,"Docker, TypeScript, REST APIs, Kubernetes, TensorFlow, Ruby, React",59643,110056.5,Mid-level,7
+junior developer,WebDynamics,"San Francisco, CA",full-time,Technology,75038,145045,0.0,2025-11-27,"JavaScript, Kubernetes, REST APIs, Python, AWS, TensorFlow",70007,110041.5,Beginner,6
+c#/.net developer (m/f/d),Rahantech GmbH,Frankfurt,professional / experienced,Software Development,80000,140000,4.0,2025-11-26,None,60000,110000.0,Mid-level,1
+full stack engineer (m/w/d),Justhome GmbH,Berlin,experienced,Software Development,80000,140000,4.0,2025-11-26,None,60000,110000.0,Mid-level,1
+forward deployed engineer (m/f/d),Elucidate GmbH,Berlin,Unknown,Software Development,80000,140000,4.0,2025-11-27,None,60000,110000.0,Mid-level,1
+solutions architect,DigitalWorks,"Austin, TX",contract,Technology,79969,139758,2.0,2025-11-27,"MongoDB, TypeScript, Machine Learning, Ruby, Python, Agile, TensorFlow",59789,109863.5,Junior,7
+security engineer,CodeFactory,"Austin, TX",full-time,Technology,83062,136568,3.0,2025-11-27,"Python, React, CI/CD",53506,109815.0,Junior,3
+solutions architect,TechCorp,"Atlanta, GA",full-time,Technology,74245,145021,2.0,2025-11-27,"CI/CD, Machine Learning, Docker, TypeScript",70776,109633.0,Junior,4
+solutions architect,CloudSystems,"Boston, MA",full-time,Technology,87002,132231,3.0,2025-11-27,"AWS, CI/CD, Python",45229,109616.5,Junior,3
+machine learning engineer,EnterpriseHub,"Berlin, Germany",remote,Technology,86275,132888,4.0,2025-11-27,"Kubernetes, TensorFlow, JavaScript, Git, React, Python, Go",46613,109581.5,Mid-level,7
+security engineer,TechCorp,"Atlanta, GA",full-time,Technology,85072,132469,5.0,2025-11-27,"REST APIs, React, Ruby, Python, Git",47397,108770.5,Mid-level,5
+machine learning engineer,DataInc,"Berlin, Germany",contract,Technology,77143,139717,3.0,2025-11-27,"Machine Learning, React, REST APIs, CI/CD, Go, Docker",62574,108430.0,Junior,6
+backend developer,WebDynamics,Remote,contract,Technology,76412,139674,3.0,2025-11-27,"CI/CD, Agile, SQL, TensorFlow, Docker",63262,108043.0,Junior,5
+software engineer,WebDynamics,"Berlin, Germany",contract,Technology,78733,137099,3.0,2025-11-27,"AWS, Git, Ruby, TensorFlow, Agile",58366,107916.0,Junior,5
+machine learning engineer,CloudSystems,"Boston, MA",part-time,Technology,81416,134304,2.0,2025-11-27,"CI/CD, Go, Node.js, Ruby, REST APIs",52888,107860.0,Junior,5
+frontend developer,CloudSystems,"Boston, MA",contract,Technology,75229,140057,2.0,2025-11-27,"Java, React, Agile, Docker, Python, Machine Learning",64828,107643.0,Junior,6
+machine learning engineer,StartupXYZ,Remote,full-time,Technology,81209,133662,3.0,2025-11-27,"Machine Learning, Go, Git, Docker, REST APIs, CI/CD",52453,107435.5,Junior,6
+solutions architect,TechCorp,"Austin, TX",part-time,Technology,81682,133112,5.0,2025-11-27,"Ruby, Python, React, Java, TensorFlow, JavaScript, REST APIs",51430,107397.0,Mid-level,7
+solutions architect,CodeFactory,"Atlanta, GA",part-time,Technology,83140,131579,3.0,2025-11-27,"Node.js, MongoDB, Go, Agile, AWS, TypeScript, Machine Learning",48439,107359.5,Junior,7
+software engineer,EnterpriseHub,"Toronto, Canada",part-time,Technology,78059,136317,4.0,2025-11-27,"CI/CD, Python, Kubernetes",58258,107188.0,Mid-level,3
+data scientist,EnterpriseHub,"Austin, TX",part-time,Technology,82317,131764,5.0,2025-11-27,"REST APIs, AWS, SQL",49447,107040.5,Mid-level,3
+machine learning engineer,CloudSystems,"Boston, MA",remote,Technology,73064,140990,2.0,2025-11-27,"React, Node.js, Docker, Python, Ruby",67926,107027.0,Junior,5
+software engineer,CloudSystems,"Boston, MA",remote,Technology,74824,138525,5.0,2025-11-27,"TensorFlow, Machine Learning, Node.js, JavaScript, Agile, TypeScript",63701,106674.5,Mid-level,6
+solutions architect,DigitalWorks,"Denver, CO",part-time,Technology,76836,135463,5.0,2025-11-27,"Go, Agile, Python, Docker, CI/CD, React, TensorFlow",58627,106149.5,Mid-level,7
+devops engineer,InnovateLab,Remote,part-time,Technology,71916,140205,3.0,2025-11-27,"Machine Learning, Python, TypeScript, Kubernetes, REST APIs, Ruby",68289,106060.5,Junior,6
+frontend developer,StartupXYZ,"Toronto, Canada",part-time,Technology,72650,138650,4.0,2025-11-27,"TypeScript, React, Agile, SQL, Git, Go, MongoDB",66000,105650.0,Mid-level,7
+devops engineer,StartupXYZ,"Boston, MA",full-time,Technology,75901,135037,4.0,2025-11-27,"Ruby, Go, MongoDB, TypeScript, Machine Learning",59136,105469.0,Mid-level,5
+devops engineer,StartupXYZ,"Berlin, Germany",full-time,Technology,71538,139212,4.0,2025-11-27,"Agile, Docker, React, Go, SQL, Kubernetes, CI/CD",67674,105375.0,Mid-level,7
+system administrator,WebDynamics,"Seattle, WA",full-time,Technology,84186,125685,2.0,2025-11-27,"SQL, Kubernetes, Git, Go, Ruby, Agile",41499,104935.5,Junior,6
+qa engineer,EnterpriseHub,"Chicago, IL",contract,Technology,70109,138893,4.0,2025-11-27,"Go, Agile, TypeScript, CI/CD, TensorFlow, Ruby, Java",68784,104501.0,Mid-level,7
+software engineer,AI Solutions,"Boston, MA",remote,Technology,74316,134145,2.0,2025-11-27,"Agile, Kubernetes, Machine Learning",59829,104230.5,Junior,3
+solutions architect,TechCorp,"Chicago, IL",remote,Technology,71875,134585,3.0,2025-11-27,"Kubernetes, Python, Machine Learning",62710,103230.0,Junior,3
+full stack developer,DataInc,"Boston, MA",part-time,Technology,76018,130316,5.0,2025-11-27,"SQL, Go, TypeScript, CI/CD, Node.js, Java",54298,103167.0,Mid-level,6
+security engineer,TechCorp,"Austin, TX",contract,Technology,71872,134040,2.0,2025-11-27,"Docker, Agile, Ruby, SQL, Machine Learning, TensorFlow",62168,102956.0,Junior,6
+business analyst,CodeFactory,"New York, NY",remote,Technology,82129,122656,4.0,2025-11-27,"Machine Learning, Node.js, Docker, CI/CD",40527,102392.5,Mid-level,4
+junior developer,DataInc,"Chicago, IL",contract,Technology,73663,123800,1.0,2025-11-27,"Agile, Java, AWS, Git, Machine Learning, Ruby, Docker",50137,98731.5,Beginner,7
+business analyst,CodeFactory,"New York, NY",contract,Technology,69993,124119,3.0,2025-11-27,"Agile, Go, CI/CD",54126,97056.0,Junior,3
+junior developer,DigitalWorks,"Toronto, Canada",contract,Technology,70717,121078,0.0,2025-11-27,"Git, MongoDB, REST APIs, Agile, Go, CI/CD, Python",50361,95897.5,Beginner,7
+junior developer,AI Solutions,"Denver, CO",full-time,Technology,71565,119090,1.0,2025-11-27,"Ruby, CI/CD, AWS, Node.js, Git, SQL",47525,95327.5,Beginner,6
+business analyst,DigitalWorks,"Denver, CO",remote,Technology,65168,114551,4.0,2025-11-27,"Docker, TensorFlow, React, Agile, Python, SQL, CI/CD",49383,89859.5,Mid-level,7
+system administrator,WebDynamics,"Denver, CO",full-time,Technology,65403,112418,5.0,2025-11-27,"React, Agile, Python, Docker, JavaScript, Kubernetes",47015,88910.5,Mid-level,6
+junior developer,DataInc,"Austin, TX",contract,Technology,57074,119803,2.0,2025-11-27,"MongoDB, Python, TypeScript, React, Node.js",62729,88438.5,Junior,5
+junior developer,AI Solutions,"Boston, MA",part-time,Technology,61463,114523,1.0,2025-11-27,"MongoDB, Go, CI/CD, React, Java, Kubernetes, Git",53060,87993.0,Beginner,7
+ux designer,TechCorp,"Boston, MA",remote,Technology,66215,105651,3.0,2025-11-27,"Agile, TensorFlow, Ruby, JavaScript, Docker",39436,85933.0,Junior,5
+system administrator,CodeFactory,"Chicago, IL",remote,Technology,64421,107131,3.0,2025-11-27,"Node.js, React, REST APIs, Kubernetes",42710,85776.0,Junior,4
+system administrator,EnterpriseHub,"Boston, MA",remote,Technology,69504,101397,3.0,2025-11-27,"Python, Ruby, Machine Learning, SQL, Docker",31893,85450.5,Junior,5
+system administrator,TechCorp,"Austin, TX",contract,Technology,63238,103813,2.0,2025-11-27,"AWS, React, Agile, TypeScript",40575,83525.5,Junior,4
+business analyst,WebDynamics,"Austin, TX",contract,Technology,59839,106042,4.0,2025-11-27,"TypeScript, Git, Go",46203,82940.5,Mid-level,3
+data analyst,EnterpriseHub,"Austin, TX",full-time,Technology,60240,104773,5.0,2025-11-27,"Docker, AWS, MongoDB, Kubernetes, JavaScript",44533,82506.5,Mid-level,5
+system administrator,CodeFactory,"Berlin, Germany",remote,Technology,65099,99882,5.0,2025-11-27,"REST APIs, AWS, React",34783,82490.5,Mid-level,3
+ux designer,StartupXYZ,"Denver, CO",full-time,Technology,62677,102299,4.0,2025-11-27,"Ruby, React, JavaScript, TypeScript, SQL, AWS",39622,82488.0,Mid-level,6
+system administrator,DigitalWorks,"Chicago, IL",remote,Technology,56323,108363,4.0,2025-11-27,"Node.js, React, Machine Learning, CI/CD, Agile, TypeScript, Java",52040,82343.0,Mid-level,7
+business analyst,CloudSystems,"Austin, TX",part-time,Technology,61751,102243,2.0,2025-11-27,"AWS, JavaScript, MongoDB, TensorFlow, Machine Learning, Ruby, Agile",40492,81997.0,Junior,7
+business analyst,TechCorp,"Atlanta, GA",remote,Technology,69329,91860,3.0,2025-11-27,"Ruby, Node.js, Git, TensorFlow, CI/CD",22531,80594.5,Junior,5
+business analyst,EnterpriseHub,"Denver, CO",remote,Technology,60548,99605,2.0,2025-11-27,"MongoDB, Machine Learning, JavaScript, AWS, Node.js, Python",39057,80076.5,Junior,6
+working student:in performance marketing / ppc (meta ads & google ads),Corominas Consulting GmbH,Fürth,working student,Marketing and Communication,60000,100000,4.0,2025-11-26,None,40000,80000.0,Mid-level,1
+** sap consultant - focus security-consulting **,OREXES GmbH,Fulda,Unknown,SAP/ERP Consulting,60000,100000,4.0,2025-11-27,None,40000,80000.0,Mid-level,1
+internship social media content,onest.,Konstanz,internship,Social Media Manager,60000,100000,4.0,2025-11-26,None,40000,80000.0,Mid-level,1
+on-site support specialist (m/w/d) - 1389,ITconfig/all GmbH,Hanover,entry-level,Helpdesk,60000,100000,4.0,2025-11-26,None,40000,80000.0,Mid-level,1
+working student location analysis & pps optimization außenwerbung (m/w/d) (hybrid · datenbasiert · regelmäßige feedbackmeetings im büro),SCHWARZ-Außenwerbung GmbH,Konstanz,working student,Media Planning,60000,100000,4.0,2025-11-26,None,40000,80000.0,Mid-level,1
+sachbearbeiter (m/w/d) billing / claims management als elternzeitvertretung (befristet),Fahrzeug-Werke LUEG AG,Essen,Unknown,Finance,60000,100000,4.0,2025-11-27,None,40000,80000.0,Mid-level,1
+"content producer, mit fokus auf video (m/w/d)",SmartMakers GmbH,Karlsruhe,experienced,Marketing and Communication,60000,100000,4.0,2025-11-27,None,40000,80000.0,Mid-level,1
+specialist für food technology (process staff) (m/w/d),Flora Food Group,"Kleve, North Rhine-Westphalia, Germany",Unknown,Process Engineering,60000,100000,4.0,2025-11-26,None,40000,80000.0,Mid-level,1
+project engineer water supply and disposal (m/w/d) mit führungsverantwortung in münchen,Wilhelm Unternehmensberatung,Munich,Unknown,Process Engineering,60000,100000,4.0,2025-11-26,None,40000,80000.0,Mid-level,1
+"let's connect, open application",Pulse Advertising GmbH,Gössenheim,professional / experienced,Marketing and Communication,60000,100000,4.0,2025-11-26,None,40000,80000.0,Mid-level,1
+scooter mechanic,Bolt Technology,"Kassel, Hesse, Germany",Unknown,Process Engineering,60000,100000,4.0,2025-11-26,None,40000,80000.0,Mid-level,1
+scooter mechanic,Bolt Technology,"Bielefeld, North Rhine-Westphalia, Germany",Unknown,Process Engineering,60000,100000,4.0,2025-11-26,None,40000,80000.0,Mid-level,1
+scooter mechanic,Bolt Technology,"Nuremberg, Bavaria, Germany",Unknown,Process Engineering,60000,100000,4.0,2025-11-26,None,40000,80000.0,Mid-level,1
+working student web development (m/w/d),Die Gruppe Werbeagentur GmbH,Leinfelden-Echterdingen,working student,Marketing and Communication,60000,100000,4.0,2025-11-26,None,40000,80000.0,Mid-level,1
+post-onboarding success specialist,Wolt - English,"Hannoversche Straße, Lower Saxony, Germany",Unknown,HR,60000,100000,4.0,2025-11-27,None,40000,80000.0,Mid-level,1
+scooter mechanic,Bolt Technology,"Augsburg, Bavaria, Germany",Unknown,Process Engineering,60000,100000,4.0,2025-11-26,None,40000,80000.0,Mid-level,1
+scooter mechanic,Bolt Technology,"Munich, Bavaria, Germany",Unknown,Process Engineering,60000,100000,4.0,2025-11-26,None,40000,80000.0,Mid-level,1
+scooter mechanic,Bolt Technology,"Münster, North Rhine-Westphalia, Germany",Unknown,Process Engineering,60000,100000,4.0,2025-11-26,None,40000,80000.0,Mid-level,1
+scooter mechanic,Bolt Technology,"Stuttgart, Baden-Württemberg, Germany",Unknown,Process Engineering,60000,100000,4.0,2025-11-26,None,40000,80000.0,Mid-level,1
+fleet operations driver,Bolt Technology,"Augsburg, Bavaria, Germany",Unknown,Process Engineering,60000,100000,4.0,2025-11-26,None,40000,80000.0,Mid-level,1
+strategic hr business partner (f/m/d),IONOS SE,Berlin,Unknown,HR,60000,100000,4.0,2025-11-27,None,40000,80000.0,Mid-level,1
+scooter mechanic,Bolt Technology,"Karlsruhe, Baden-Württemberg, Germany",Unknown,Process Engineering,60000,100000,4.0,2025-11-26,None,40000,80000.0,Mid-level,1
+scooter mechanic,Bolt Technology,"Frankfurt, Hesse, Germany",Unknown,Process Engineering,60000,100000,4.0,2025-11-26,None,40000,80000.0,Mid-level,1
+scooter mechanic,Bolt Technology,"Mannheim, Baden-Württemberg, Germany",Unknown,Process Engineering,60000,100000,4.0,2025-11-26,None,40000,80000.0,Mid-level,1
+scooter mechanic,Bolt Technology,"Berlin, Berlin, Germany",Unknown,Process Engineering,60000,100000,4.0,2025-11-26,None,40000,80000.0,Mid-level,1
+fleet operations driver,Bolt Technology,"Wolfsburg, Lower Saxony, Germany",Unknown,Process Engineering,60000,100000,4.0,2025-11-26,None,40000,80000.0,Mid-level,1
+fleet operations driver,Bolt Technology,"Bremen, Bremen, Germany",Unknown,Process Engineering,60000,100000,4.0,2025-11-26,None,40000,80000.0,Mid-level,1
+data analyst,EnterpriseHub,"Chicago, IL",contract,Technology,50892,107918,3.0,2025-11-27,"Kubernetes, Node.js, Java, SQL, Go, React",57026,79405.0,Junior,6
+business analyst,InnovateLab,Remote,full-time,Technology,63339,94476,3.0,2025-11-27,"REST APIs, Kubernetes, MongoDB",31137,78907.5,Junior,3
+ux designer,WebDynamics,Remote,full-time,Technology,65938,91253,2.0,2025-11-27,"Java, Docker, Machine Learning",25315,78595.5,Junior,3
+ux designer,TechCorp,"Chicago, IL",contract,Technology,53114,103673,5.0,2025-11-27,"SQL, MongoDB, Ruby, AWS",50559,78393.5,Mid-level,4
+data analyst,StartupXYZ,"Toronto, Canada",full-time,Technology,52720,103309,3.0,2025-11-27,"SQL, Go, JavaScript, Machine Learning, REST APIs",50589,78014.5,Junior,5
+ux designer,TechCorp,"Atlanta, GA",contract,Technology,55647,99793,4.0,2025-11-27,"AWS, JavaScript, Machine Learning, REST APIs, Python, Git, Go",44146,77720.0,Mid-level,7
+data analyst,StartupXYZ,"Denver, CO",contract,Technology,53490,100804,3.0,2025-11-27,"JavaScript, Kubernetes, TypeScript, Python, TensorFlow, Ruby, Git",47314,77147.0,Junior,7
+ux designer,StartupXYZ,"Denver, CO",part-time,Technology,55151,98695,2.0,2025-11-27,"Git, Python, AWS, React",43544,76923.0,Junior,4
+data analyst,InnovateLab,"Austin, TX",part-time,Technology,51888,91798,3.0,2025-11-27,"Python, TypeScript, TensorFlow, Ruby",39910,71843.0,Junior,4
+business analyst,DigitalWorks,"Toronto, Canada",part-time,Technology,52419,90437,2.0,2025-11-27,"Python, CI/CD, Machine Learning, SQL",38018,71428.0,Junior,4
+(junior) test automation engineer (m/w/d) #lowcode,Greenfield Technology AG,Düsseldorf,remote,Technology,45000,70000,4.0,2025-11-27,None,25000,57500.0,Mid-level,1
+(junior) media buyer influencer marketing (m/w/d),benuta GmbH,Cologne,contract,Marketing and Communication,45000,70000,4.0,2025-11-26,None,25000,57500.0,Mid-level,1
+(junior) software developer (m/w/d) #lowcode,Greenfield Technology AG,Düsseldorf,remote,Software Development,45000,70000,4.0,2025-11-27,None,25000,57500.0,Mid-level,1
